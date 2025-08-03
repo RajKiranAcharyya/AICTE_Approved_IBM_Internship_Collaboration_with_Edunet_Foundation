@@ -1,4 +1,4 @@
-# IBM Internship Collaboration with Edunet Foundation
+# IBM Internship on AI & Cloud Collaboration with Edunet Foundation
 Predictive Maintenance system using IBM Watsonx.ai AutoAI — detects machine failures (tool wear, overheating, power failure) via real-time sensor data.
 
 # 🛠️ Predictive Maintenance using AI & IBM Cloud (IBM SkillsBuild Internship Project)
