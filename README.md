@@ -106,7 +106,7 @@ The solution leverages **IBM Watsonx.ai's AutoAI** to:
 - ✅ Journey to Cloud – *IBM Credly Badge*
 - ✅ RAG Lab – *IBM Credly Badge*
 
-(*PDF is also available within the folder*)
+(*PPT is also available within the folder*)
 
 ---
 
